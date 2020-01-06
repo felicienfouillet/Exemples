@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1539773666 source:c:\users\felic\documents\cesi\prosit 7 - algorithmique  fonctions et recursivite\calculatrice 2.0\main.c
+	<stdio.h>
+	<stdlib.h>
+	"maths.h"
+
+1539776428 c:\users\felic\documents\cesi\prosit 7 - algorithmique  fonctions et recursivite\calculatrice 2.0\maths.h
+
+1539783220 source:c:\users\felic\documents\cesi\prosit 7 - algorithmique  fonctions et recursivite\cer ue 1.7 + calculatrice 2.0 - algorithmique fonctions et recursivite - félicien fouillet\calculatrice 2.0\main.c
+	<stdio.h>
+	<stdlib.h>
+	"maths.h"
+
+1539781786 c:\users\felic\documents\cesi\prosit 7 - algorithmique  fonctions et recursivite\cer ue 1.7 + calculatrice 2.0 - algorithmique fonctions et recursivite - félicien fouillet\calculatrice 2.0\maths.h
+
+1577263853 source:f:\cesi\prosit 7 - algorithmique  fonctions et recursivite\cer ue 1.7 + calculatrice 2.0 - algorithmique fonctions et recursivite - félicien fouillet\calculatrice 2.0\main.c
+	<stdio.h>
+	<stdlib.h>
+	"maths.h"
+
+1539778186 f:\cesi\prosit 7 - algorithmique  fonctions et recursivite\cer ue 1.7 + calculatrice 2.0 - algorithmique fonctions et recursivite - félicien fouillet\calculatrice 2.0\maths.h
+
