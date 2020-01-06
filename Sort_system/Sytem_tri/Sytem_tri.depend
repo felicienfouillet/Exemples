@@ -1,0 +1,58 @@
+# depslib dependency file v1.0
+1507556851 source:c:\users\felic\documents\cesi\prosit 8 - algorithmique tris et recherhes\sytem_tri\sort.c
+	"sort.h"
+
+1507555211 c:\users\felic\documents\cesi\prosit 8 - algorithmique tris et recherhes\sytem_tri\sort.h
+	<stdlib.h>
+	<stdio.h>
+	<errno.h>
+	"inhabitants.h"
+
+1540050719 c:\users\felic\documents\cesi\prosit 8 - algorithmique tris et recherhes\sytem_tri\inhabitants.h
+	<stdlib.h>
+	<stdio.h>
+	<errno.h>
+
+1540132079 source:c:\users\felic\documents\cesi\prosit 8 - algorithmique tris et recherhes\sytem_tri\main.c
+	<stdlib.h>
+	"inhabitants.h"
+	"sort.h"
+
+1540190124 source:c:\users\felic\documents\cesi\prosit 8 - algorithmique tris et recherhes\cer eu 1.8 tris et recherche + livrable - felicien fouillet\sytem_tri\main.c
+	<stdlib.h>
+	"inhabitants.h"
+	"sort.h"
+
+1540047119 c:\users\felic\documents\cesi\prosit 8 - algorithmique tris et recherhes\cer eu 1.8 tris et recherche + livrable - felicien fouillet\sytem_tri\inhabitants.h
+	<stdlib.h>
+	<stdio.h>
+	<errno.h>
+
+1507551611 c:\users\felic\documents\cesi\prosit 8 - algorithmique tris et recherhes\cer eu 1.8 tris et recherche + livrable - felicien fouillet\sytem_tri\sort.h
+	<stdlib.h>
+	<stdio.h>
+	<errno.h>
+	"inhabitants.h"
+
+1507553251 source:c:\users\felic\documents\cesi\prosit 8 - algorithmique tris et recherhes\cer eu 1.8 tris et recherche + livrable - felicien fouillet\sytem_tri\sort.c
+	"sort.h"
+
+1540190124 source:f:\cesi\prosit 8 - algorithmique tris et recherhes\cer eu 1.8 tris et recherche + livrable - felicien fouillet\sytem_tri\main.c
+	<stdlib.h>
+	"inhabitants.h"
+	"sort.h"
+
+1540047119 f:\cesi\prosit 8 - algorithmique tris et recherhes\cer eu 1.8 tris et recherche + livrable - felicien fouillet\sytem_tri\inhabitants.h
+	<stdlib.h>
+	<stdio.h>
+	<errno.h>
+
+1507551611 f:\cesi\prosit 8 - algorithmique tris et recherhes\cer eu 1.8 tris et recherche + livrable - felicien fouillet\sytem_tri\sort.h
+	<stdlib.h>
+	<stdio.h>
+	<errno.h>
+	"inhabitants.h"
+
+1507553251 source:f:\cesi\prosit 8 - algorithmique tris et recherhes\cer eu 1.8 tris et recherche + livrable - felicien fouillet\sytem_tri\sort.c
+	"sort.h"
+
