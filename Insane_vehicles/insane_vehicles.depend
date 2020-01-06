@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1491894229 source:f:\cesi\prosit 40 - gabbi le fils dep\corbeille + workshop\insane_vehicles\main.c
+	"InsaneVehicle.h"
+
+1491894229 f:\cesi\prosit 40 - gabbi le fils dep\corbeille + workshop\insane_vehicles\insanevehicle.h
+	<stdio.h>
+	<windows.h>
+	"Road.h"
+	"MyVehicle.h"
+
+1491894229 f:\cesi\prosit 40 - gabbi le fils dep\corbeille + workshop\insane_vehicles\road.h
+	"InsaneVehicle.h"
+	<time.h>
+
+1491894229 f:\cesi\prosit 40 - gabbi le fils dep\corbeille + workshop\insane_vehicles\myvehicle.h
+	"Road.h"
+
+1491894229 source:f:\cesi\prosit 40 - gabbi le fils dep\corbeille + workshop\insane_vehicles\myvehicle.c
+	"MyVehicle.h"
+
+1491894229 source:f:\cesi\prosit 40 - gabbi le fils dep\corbeille + workshop\insane_vehicles\road.c
+	"Road.h"
+
