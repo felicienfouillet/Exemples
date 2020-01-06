@@ -1,0 +1,30 @@
+# depslib dependency file v1.0
+1540905359 source:c:\users\felic\documents\cesi\travail complementaire\ogre\foret.c
+	"foret.h"
+
+1540905529 c:\users\felic\documents\cesi\travail complementaire\ogre\foret.h
+	"ogreboulotteur.h"
+	"enfant.h"
+	"ogre.h"
+
+1540906922 source:c:\users\felic\documents\cesi\travail complementaire\ogre\main.c
+	"ogreboulotteur.h"
+
+1540905451 c:\users\felic\documents\cesi\travail complementaire\ogre\ogre.h
+	"ogreboulotteur.h"
+	"enfant.h"
+
+1540899783 c:\users\felic\documents\cesi\travail complementaire\ogre\enfant.h
+	"ogreboulotteur.h"
+
+1540900750 source:c:\users\felic\documents\cesi\travail complementaire\ogre\enfant.c
+	"enfant.h"
+
+1541028989 c:\users\felic\documents\cesi\travail complementaire\ogre\ogreboulotteur.h
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
+1540907202 source:c:\users\felic\documents\cesi\travail complementaire\ogre\ogre.c
+	"ogre.h"
+
